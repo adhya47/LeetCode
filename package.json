@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dot-env": "^0.0.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-router": "^0.0.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.0.0"
+  },
+  "name": "major_project_coder_army",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adhya",
+  "license": "ISC",
+  "description": ""
+}
